@@ -1,11 +1,11 @@
 # Hi there, I'm Manoj! 👋
 
-An aspiring **Software Engineer** currently pursuing my **B.Tech in Information Technology (IT)** at **Vishwakarma Institute of Technology (VIT), Pune** 🎓.
+An aspiring **Software Engineer** currently pursuing my **B.Tech in Information Technology (IT)**🎓.
 
 ---
 
 ### 🚀 About Me
-- 🏫 First-year **B.Tech IT** student at **VIT, Pune**.
+- 🏫 First-year **B.Tech IT** student**.
 - 💻 Passionate about logic, coding, and building innovative software.
 - 🌐 Learning the fundamentals of web development and programming languages.
 - ⚡ Fun fact: Excited to explore tech communities, hackathons, and open-source projects!
